@@ -8,5 +8,6 @@ public class git_test {
         System.out.println("我也是醉了");
         System.out.println("666");
          System.out.println("6666666");
+	 System.out.println("99");
     }
 }
